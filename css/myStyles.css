@@ -1,0 +1,16 @@
+span {font-weight:bold;}
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+a:hover {background-color: lightgreen;}
+img:hover {opacity: 50%;}
+#team1,#team2,#team3,#team4 {opacity: 100%;}
+html {background-color: lightgray;
+  background-image: url("/images/EzzBee-Autos-background.png");
+opacity: 95%;
+}
+div {padding-bottom: 1em;}
+body {font-weight: bold;}
