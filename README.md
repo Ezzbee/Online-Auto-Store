@@ -23,3 +23,11 @@ To add a vehicle to the cart, click on the **ADD TO CART** button, the system th
 
 If you click on the **Cancel** prompt, you are returned to the cataloge to continue shopping. Otherwise, you are taken to the shopping cart as shown below.
 ![Shopping Cart page](Shopping_Cart.png)
+
+From the Shopping Cart, you can review and then return to the catalogue page or you may choose to checkout by clicking the **Checkout** button, in which case the page below is displayed.
+![Checkout Page](Checkout.png)
+
+On this page, you can input all your required personal and card details. You can also choose your delivery option and enter any discount voucher you might have. You can then review all the entries and calculations and confirm your order.
+
+*Image credits:*
+Most of the vehicle images used on this app were lifted from **http://jiji.ng**.
