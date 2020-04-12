@@ -14,5 +14,5 @@ This app, being web-based does not require any special installation steps. Simpl
 
 ## Usage
 From the home page, shown below, the other parts of the website can be accessed.
-
+![Home Page](home.png)
 
