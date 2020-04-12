@@ -8,3 +8,11 @@ Shipping can either be Door-to-door delivery or pick up at a designated location
 
 In its current state, some of the functionalities are yet to be coded. These include the payment options, ability to increase or decrease 
 quantity being ordered from the Checkout page. The database backend is also not in place.
+
+## Installation
+This app, being web-based does not require any special installation steps. Simply point your web browser to the its home page url and you're good to go.
+
+## Usage
+From the home page, shown below, the other parts of the website can be accessed.
+
+
